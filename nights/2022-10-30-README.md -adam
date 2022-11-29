@@ -1,0 +1,37 @@
+# 2022-10-30
+
+## Reviewed by:   Adam Oberlander
+
+## Raw image gallery: http://physics.mnstate.edu/feder_gallery/2022-10-30
+
+## Unusual images?
+
+Are there any images that look unusual? List the file name of any unusual images for this night here, with description:
+
++ `M33-S001-R001-C001-ip.fit' -- this image has a white line on the center of the screen.
++ 'M33-S001-R009-C001-ip.fit' --satelight of something similar.
++ `NGC-891-S001-R024-C001-ip.fit'-- white line or streek across the camera possibly satelight.
++ ' NGC-891-S001-R025-C001-ip.fit' --white line or streek across the camera possibly satelight.
++ 'TIC_52420398.01-S001-R030-C001-ip.fit' -- there is a small white line on the top center of the photo.
++ 'M33-S001-R042-C001-ip.fit'-- it is blury and a few different little lines.
+Delete this list if there are no unusual images.
+
+## Missing information?
+
+Check these off if they are true:
+
+- [x ] No images are missing filter information (except BIAS and DARK, which need no filter).
+- [x ] No images are missing pointing information (RA/Dec and WCS)
+- [x ] No images are missing object names (only applies to science images)
+
+If any images are missing information and you have been unable to fix them please list
+them below with a short description of the problem.
+
+
+## What, if anything, did you have to do to fix images on this night?
+
+Remember, you should do your changes with scripts that you number and place in the
+directory along with the data so the procedure could be repeated if needed or
+desired.
+
+Here, explain in English (not code) what you fixed, if anything.
