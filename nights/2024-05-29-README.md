@@ -27,7 +27,3 @@ below with the file name in backticks and a short description of the problem.
 ## What, if anything, did you have to do to fix images on this night?
 
 None needed.
-
-If you did fix something, replace the line above with an explanation in English (not
-code) of what you did. Do your changes with scripts that you number and place in the
-directory along with the data so the procedure could be repeated if needed.
