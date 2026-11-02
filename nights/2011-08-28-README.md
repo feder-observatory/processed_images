@@ -6,34 +6,28 @@
 
 ## Unusual images?
 
-Are there any images that look unusual? List the file name of any unusual images for this night here, with description:
+Are there any images that look unusual? List the file name of any unusual images for
+this night here, with a short description. File names belong in backticks, like this:
 
 + `crazy-object-001R.fit` -- not sure what this is an image of
-+ `another-crazy-object-003B.fit` -- this looks more like a flat than a science image.
-+ `full-moon-005B.fit` -- nice satellite or plane track in here.
 
-Delete this list if there are no unusual images.
+Delete the example above if there are no unusual images.
 
 ## Missing information?
 
-Check these off if they are true:
+Uncheck any of these that are not true:
 
-- [ ] No images are missing filter information (except BIAS and DARK, which need no filter).
-- [ ] No images are missing pointing information (RA/Dec and WCS)
-- [ ] No images are missing object names (only applies to science images)
-- [x] EXAMPLE checked-off box, please delete.
+- [x] No images are missing filter information (except BIAS and DARK, which need no filter).
+- [x] No images are missing pointing information (RA/Dec and WCS)
+- [x] No images are missing object names (only applies to science images)
 
-If any images are missing information and you have been unable to fix them please list
-them below with a short description of the problem.
-
-+ `m34-002R.fit` -- no WCS, looks like there were maybe clouds.
-+ `m404-001B.fit` -- Not sure what object this, and googling `m404` got me a 404.
-+ `sa113-099V.fit` -- No filter in the FITS header, not sure what it should be.
+If any images are missing information and you have been unable to fix them, list them
+below with the file name in backticks and a short description of the problem.
 
 ## What, if anything, did you have to do to fix images on this night?
 
-Remember, you should do your changes with scripts that you number and place in the
-directory along with the data so the procedure could be repeated if needed or
-desired.
+None needed.
 
-Here, explain in English (not code) what you fixed, if anything.
+If you did fix something, replace the line above with an explanation in English (not
+code) of what you did. Do your changes with scripts that you number and place in the
+directory along with the data so the procedure could be repeated if needed.
